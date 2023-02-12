@@ -1,0 +1,6 @@
+git commit -m 'name_files'
+git status
+git branch; git branch "name_branch"; git branch -D "name_branch";
+git checkout 'test' - переключения на другие ветки
+git add "name"; git add .;
+git init - иницилиазация
