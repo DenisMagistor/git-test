@@ -4,3 +4,4 @@ git branch; git branch "name_branch"; git branch -D "name_branch";
 git checkout 'test' - переключения на другие ветки
 git add "name"; git add .;
 git init - иницилиазация
+git merge name - совмещения веток
